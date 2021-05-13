@@ -121,7 +121,7 @@ namespace SistemaVentasP2.VISTA
             this.Controls.Add(this.txtEmail);
             this.Name = "FrmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmUsuarios";
+            this.Text = "FrmLoguin";
             this.ResumeLayout(false);
             this.PerformLayout();
 

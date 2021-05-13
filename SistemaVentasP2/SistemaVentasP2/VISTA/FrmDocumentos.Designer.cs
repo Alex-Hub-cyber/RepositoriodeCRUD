@@ -157,6 +157,7 @@ namespace SistemaVentasP2.VISTA
             this.Name = "FrmDocumentos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmDocumentos";
+            this.Load += new System.EventHandler(this.FrmDocumentos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

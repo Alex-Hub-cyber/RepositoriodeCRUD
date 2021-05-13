@@ -90,5 +90,10 @@ namespace SistemaVentasP2.VISTA
             txtDocumento.Text = nombreDocumento;
            
         }
+
+        private void FrmDocumentos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
